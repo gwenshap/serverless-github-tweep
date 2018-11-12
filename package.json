@@ -13,6 +13,7 @@
   "author": "Gwen Shapira",
   "license": "Apache-2.0",
   "dependencies": {
+    "@octokit/rest": "^15.17.0",
     "twitter": "^1.7.1"
   }
 }
