@@ -1,0 +1,18 @@
+{
+  "name": "serverless-github-tweep",
+  "version": "1.0.0",
+  "description": "Tweet new issues and pull requests to Apache Kafka project",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "serverless-github-tweep"
+  },
+  "author": "Gwen Shapira",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
